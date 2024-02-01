@@ -1,0 +1,22 @@
+.tweet {
+    margin: 10px;
+}
+
+#username {
+    color:burlywood;
+    font-weight: bold;
+}
+
+#namespan {
+    color:aquamarine;
+    padding: 5px;
+}
+
+#date {
+    color:beige;
+    padding: 5px;
+}
+
+#message {
+    padding: 5px;
+}
